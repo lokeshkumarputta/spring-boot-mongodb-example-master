@@ -7,7 +7,7 @@
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Expires" content="sat, 01 Dec 2001 00:00:00 GMT">
-<title>Elife-tab | home</title>
+<title>VPA | home</title>
 <link href="static/css/bootstrap.min.css" rel="stylesheet">
 <link href="static/css/style.css" rel="stylesheet">
 <!--[if lt IE 9]>
@@ -19,7 +19,7 @@
 <body>
 	<div role="navigation">
 		<div class="navbar navbar-inverse">
-			<a href="/welcome" class="navbar-brand">Elife-Tab</a>
+			<a href="/welcome" class="navbar-brand">VPA</a>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
 					<li><a href="/login">Login</a></li>
@@ -32,7 +32,7 @@
 
 	<div class="container" id="homediv">
 		<div class="jumbotron text-center">
-			<h1>Welcome to Elife-tab</h1>
+			<h1>Welcome to VPA</h1>
 			<h3>Spring Boot Videos</h3>
 		</div>
 	</div>
